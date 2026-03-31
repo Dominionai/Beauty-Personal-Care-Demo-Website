@@ -1,1 +1,1 @@
-# web-training
+# E-commerce website
