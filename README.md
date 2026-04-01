@@ -64,8 +64,8 @@ No build step or package installation needed.
 
 **Option 1 — Open locally:**
 ```bash
-git clone https://github.com/your-username/lumiere-essence.git
-cd lumiere-essence
+git clone https://dominionai.github.io/Beauty-Personal-Care-Demo-Website.git
+cd Beauty-Personal-Care-Demo-Website
 open index.html
 ```
 
